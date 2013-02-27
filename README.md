@@ -12,6 +12,7 @@ Control character: ```C-a```(Control+a). ```C-a``` ```C-a``` ("double C-a") is p
 Navigation
 -------------
 
+* ```C-a``` ```a``` : Last window
 * ```C-a``` ```n``` : Next window
 * ```C-a``` ```p``` : Previous window
 
