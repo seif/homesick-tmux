@@ -7,7 +7,7 @@ This is a [homesick](https://github.com/technicalpickles/homesick) _castle_ for 
 Cheat Sheet
 =============
 
-Control character: ```C-a```(Control+a). ```C-a``` ```C-a``` ("double C-a") is passed through to the shell.
+Control character: ```C-b```(Control+b).
 
 Navigation
 -------------
